@@ -1,0 +1,62 @@
+﻿
+@font-face{
+    font-family: fuente1;
+    src: url(../fuentes/good_timing_bd.ttf);
+}
+@font-face{
+    font-family: fuente2;
+    src: url(../fuentes/nasalization-rg.ttf);
+}
+@font-face{
+    font-family: fuente3;
+    src: url(../fuentes/alienleaguebold.ttf);
+}
+body{
+    background-color: #0CE8E5;
+}
+.title{
+    font-family: fuente3;
+    font-size: 10px;
+}
+.titulo1{
+    color: #1805EB;
+    font-size: 40px;
+    font-family: fuente2;
+    text-align: center;
+    position:adsolute;
+}
+.titulo2{
+    color: #1805EB;
+    font-size: 30px;
+    font-family: fuente2;
+}
+.parrafo{
+    color:#4462e7;
+    font-family: fuente1;
+    font-size: 20px;
+}
+.resaltado{
+    color: #1805EB;
+}
+.links{
+    color: #b16144;
+    font-family: fuente1;
+}
+.video{
+    width: 506px;   
+    height: 315px;
+    max-width: 100%; 
+    padding: 0px 0px;
+    border: #75615A 6px solid;
+    border-radius: 20px;
+}
+.texto_pequeño{
+    color:#a57767;
+    font-family: fuente1;
+    font-size: 12px;
+}
+.miniimaguen{
+    padding: 0px 0px;
+    border: #ffffff 6px solid;
+    border-radius: 20px;
+}
